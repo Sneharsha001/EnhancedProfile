@@ -32,7 +32,7 @@ I don’t just learn tech — I test it, break it, rebuild it, and push commits 
 ## 💻 Tech Stack
 *(unchanged — your stack list is solid)*
 
------------------
+-----------------------------
 
 ## 📊 GitHub Stats
 
